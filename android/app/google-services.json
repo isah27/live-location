@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749642481366",
+    "project_id": "location-tracker-db05c",
+    "storage_bucket": "location-tracker-db05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749642481366:android:dded7d7f2506fe2dfa5377",
+        "android_client_info": {
+          "package_name": "com.ntech.locationTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749642481366-2evrnubj640cn35mhdn0re5249dij09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MVoSRAezZqJUHl6y_LFfUnGSvV1uKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749642481366-2evrnubj640cn35mhdn0re5249dij09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
